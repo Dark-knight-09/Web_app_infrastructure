@@ -1,7 +1,7 @@
 locals {
   aws_region     = "us-east-1"
-  aws_access_key = "AKIA3CRKVZ5NK2H26LHC"
-  aws_secret_key = "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"
+  aws_access_key = "<AWS_ACCESS_KEY>"
+  aws_secret_key = "<AWS_secret_Key>"
 }
 
 variable "Tomcat_server" {
